@@ -59,5 +59,25 @@
         }
       ]
     }
+    ,
+    {
+      "id": "fastapi-rest-api",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Design and implement a simple Todo REST API using FastAPI and Pydantic.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2025-11-19",
+      "attachments": [
+        {
+          "name": "Starter App",
+          "file": "starter-app.py",
+          "type": "python"
+        },
+        {
+          "name": "Requirements",
+          "file": "requirements.txt",
+          "type": "text"
+        }
+      ]
+    }
   ]
 }
